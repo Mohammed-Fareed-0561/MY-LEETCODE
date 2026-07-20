@@ -1,1 +1,1 @@
-# MY-LEETCODE
+![LeetCode Stats](https://leetcard.jacoblin.cool/344TK7rFo1?theme=nord&font=Noto%20Serif%20Thai&ext=heatmap)
