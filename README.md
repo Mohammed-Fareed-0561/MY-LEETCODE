@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
