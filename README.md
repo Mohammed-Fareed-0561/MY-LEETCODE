@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -13,4 +14,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
