@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@
 | [0027-remove-element](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0066-plus-one) |
 | [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 ## Stack
 |  |
