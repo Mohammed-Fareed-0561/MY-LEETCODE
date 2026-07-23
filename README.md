@@ -14,6 +14,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0020-valid-parentheses) |
 ## Array
@@ -32,4 +34,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
