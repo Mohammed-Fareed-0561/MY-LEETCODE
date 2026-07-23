@@ -22,8 +22,13 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
