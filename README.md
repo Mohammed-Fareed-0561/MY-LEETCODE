@@ -30,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0027-remove-element) |
 | [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 ## Stack
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
