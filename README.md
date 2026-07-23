@@ -8,10 +8,12 @@
 | [0009-palindrome-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -29,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -62,4 +65,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0055-jump-game) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
