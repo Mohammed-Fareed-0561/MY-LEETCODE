@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -26,6 +27,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
