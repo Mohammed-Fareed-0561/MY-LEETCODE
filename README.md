@@ -49,4 +49,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
