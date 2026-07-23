@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@
 | [0055-jump-game](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0136-single-number) |
 | [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 ## Stack
 |  |
