@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0179-largest-number) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0066-plus-one](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0179-largest-number) |
 | [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 ## Stack
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0179-largest-number) |
 ## Simulation
 |  |
 | ------- |
@@ -96,4 +99,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
