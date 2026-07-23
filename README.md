@@ -32,6 +32,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0055-jump-game) |
 | [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
 ## Stack
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0055-jump-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0052-n-queens-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
