@@ -28,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0202-happy-number) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0136-single-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/0179-largest-number) |
 | [1470-shuffle-the-array](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/1470-shuffle-the-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Mohammed-Fareed-0561/MY-LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Stack
 |  |
 | ------- |
